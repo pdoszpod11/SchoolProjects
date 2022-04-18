@@ -1,0 +1,19 @@
+teszteles_5 1500000 3 29835 True
+Játékos 100000 3 13874 False
+patrikteszt 50000 3 31851 False
+allegro 5000 3 8167 False
+patrikteszt_1 40000000 2 30807 False
+asdfgrg 500000 2 23819 False
+remeljukutso 500000 2 24923 True
+patriksda 500000 2 27916 True
+ujramegujra 300000 2 18552 True
+tesztujra2 300000 2 26103 True
+legutolso 300000 2 15975 False
+teszteles1 50000 2 33187 True
+ujabbkiserlet 50000 2 14135 False
+namegegy 25000 2 11855 False
+fdsa 25000 2 9867 
+teszteles_dicsl 300000 1 30963 False
+negyszaz 300000 1 31495 True
+ujteszt 10000 1 23586 True
+ot 5000 1 18630 False
