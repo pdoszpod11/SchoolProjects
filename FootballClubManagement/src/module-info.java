@@ -1,0 +1,3 @@
+module brigad {
+	requires junit;
+}
